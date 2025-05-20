@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm rbetree 👋</h1>
   <p><i>young-dumb | Computer Science junior diving into full-stack, AI, and cloud technologies</i></p>
-  <p><i>计算机科学专业学生，深入探索全栈开发、人工智能和云端技术</i></p>
+  <p><i>计算机科学专业学生，正在探索全栈开发、人工智能和云端技术</i></p>
   
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=rbetree&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -19,8 +19,6 @@
 💡 &nbsp; Fascinated by AI models & tech convergence / 热衷AI大模型与技术融合
 
 🎯 &nbsp; Goal: Contribute to meaningful projects / 目标：参与有趣有价值的项目
-
-☕ &nbsp; The more code I write, the more coffee I drink / 写的代码越多，喝的咖啡就越多
 
 ## Languages and Tools
 
