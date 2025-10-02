@@ -1,6 +1,8 @@
 # SpecStory explanation file
 .specstory/.what-is-this.md
 
+#claude
+.spec-workflow/
 
 # Ignore the entire .specstory folder
 .specstory/

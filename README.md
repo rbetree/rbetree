@@ -39,8 +39,8 @@
 
 <div align="center">
   <a href="https://github.com/rbetree">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbetree&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbetree&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbetree&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbetree&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
   </a>
 </div>
 
