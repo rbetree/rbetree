@@ -35,13 +35,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbetree&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbetree&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-</div>
-
 ## Connect with me
 
 <div align="center">
@@ -51,4 +44,10 @@
 [<img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />](https://dev.to/rbetree)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/rzlrong)
 
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="430em" src="https://githubcard.com/rbetree.svg?d=77BbJHIE" />
 </div>
