@@ -45,9 +45,3 @@
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/rzlrong)
 
 </div>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="430em" src="https://githubcard.com/rbetree.svg?d=77BbJHIE" />
-</div>
