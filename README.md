@@ -12,15 +12,13 @@
 
 ## About Me
 
-🤖 &nbsp; Building AI agent applications: multi-agent orchestration, skills, and context engineering / 做 AI Agent 应用开发：多 Agent 编排、Skill 与上下文工程
+🤖 &nbsp; Agent orchestration, context engineering, long-term memory / 多 Agent 编排、上下文工程与长时记忆
 
-🧠 &nbsp; Working on long-term memory and context management for agents / 做 Agent 的长时记忆与上下文管理
+🧪 &nbsp; Multimodal generation, local models, fine-tuning, evals / 多模态生成、本地模型、微调与评测
 
-🎨 &nbsp; Putting multimodal generation into real workflows / 把多模态生成接进实际工作流
+🧱 &nbsp; Full-stack development and engineering / 全栈开发与工程实践
 
-🧪 &nbsp; Experimenting with local models, on-device deployment, fine-tuning, and post-training / 折腾本地与端侧模型、微调与后训练
-
-🧩 &nbsp; Shipping AI-native products end to end, with evals and quality gates / 端到端落地 AI 产品，配套评测与质量把关
+✍️ &nbsp; Writing tech notes and dev logs on my blog / 在博客写技术笔记与开发记录
 
 ## Languages and Tools
 
